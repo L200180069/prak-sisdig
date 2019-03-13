@@ -1,1 +1,1 @@
-# praktikum-sisdig
+# prak-sisdig
